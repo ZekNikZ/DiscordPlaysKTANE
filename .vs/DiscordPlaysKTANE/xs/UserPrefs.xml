@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{BAD24A9E-97E7-410C-A138-32AAAC4BFC73}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.DiscordPlaysKTANE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordPlaysKTANE/Discord/Commands/ModuleCommandHandler.cs">
+    <Files>
+      <File FileName="DiscordPlaysKTANE/Game/Modules/Vanilla/SimonSaysModule.cs" Line="129" Column="25" />
+      <File FileName="DiscordPlaysKTANE/Game/Modules/Vanilla/TheButtonModule.cs" Line="102" Column="50" />
+      <File FileName="DiscordPlaysKTANE/Game/Modules/BaseModule.cs" Line="38" Column="15" />
+      <File FileName="DiscordPlaysKTANE/Game/GameManager.cs" Line="82" Column="1" />
+      <File FileName="DiscordPlaysKTANE/Game/Bombs/BombInfo.cs" Line="179" Column="10" />
+      <File FileName="DiscordPlaysKTANE/Discord/Commands/BombCommands.cs" Line="70" Column="6" />
+      <File FileName="DiscordPlaysKTANE/Discord/Commands/GameCommands.cs" Line="26" Column="71" />
+      <File FileName="DiscordPlaysKTANE/Game/Bombs/BombGenerator.cs" Line="12" Column="10" />
+      <File FileName="DiscordPlaysKTANE/Discord/Commands/ModuleCommandHandler.cs" Line="117" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ActiveRuntime="Mono 5.14.0.121 (33a9dca4932)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
